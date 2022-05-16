@@ -19,3 +19,6 @@
   sudo apt update
   sudo apt install virtualbox
 ```
+
+# Link for BIOS
+[BIOS](https://www.asus.com/support/FAQ/1043786/)
